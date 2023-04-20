@@ -15,6 +15,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@artevelde-uas/canvas-lms-all-courses-terms-tabs-plugin@npm:^1.1.0":
+  version: 1.2.0
+  resolution: "@artevelde-uas/canvas-lms-all-courses-terms-tabs-plugin@npm:1.2.0"
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.9.0
+  checksum: ed89e64e44528a8f7e0be328c8794455b904e196b6f8c091f167fa57e3ed4b8c5eb760d953a8b83e60d2c2acdeb0d4814f8e3992d3b2ad6affa8476b12ce25be
+  languageName: node
+  linkType: hard
+
 "@artevelde-uas/canvas-lms-api@npm:^0.3.0":
   version: 0.3.0
   resolution: "@artevelde-uas/canvas-lms-api@npm:0.3.0"
@@ -42,6 +51,186 @@ __metadata:
   peerDependencies:
     "@artevelde-uas/canvas-lms-theme-dev": ^0.1.0
   checksum: e5a162e336b7af16207e311bd53119c2e891ad2034db359373496fefa32fb12189fcb4f0cc74ab125ea92b9044f83c8cef51d63c18c757ba02f40145ec71a5be
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-assignment-default-settings-plugin@npm:^0.3.1":
+  version: 0.3.2
+  resolution: "@artevelde-uas/canvas-lms-assignment-default-settings-plugin@npm:0.3.2"
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.12.1
+  checksum: decb276c3fc32e16d517bf8bc0247b68ae793e4080e7f297eb3a8a21546caaeb0dca3770d33537dba00fd0959552fb0857a50c4766388d69d6b923d1d846f6dd
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-assignments-bulk-assign-to-plugin@npm:^1.1.0":
+  version: 1.1.0
+  resolution: "@artevelde-uas/canvas-lms-assignments-bulk-assign-to-plugin@npm:1.1.0"
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.9.0
+  checksum: baf67b986edaaf62f9c877b456497b065ee74dc67de0cab793a01ea04ed238e955852718e50c19cc6a8d6002a760dbb915cdaf4ce3cae729a5a8656d75ab5b69
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-bbb-close-recording-reminder-plugin@npm:^1.1.0":
+  version: 1.1.0
+  resolution: "@artevelde-uas/canvas-lms-bbb-close-recording-reminder-plugin@npm:1.1.0"
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.9.0
+  checksum: c49079477ccb0877fd97487db2825f65ae936e85384ccdd466a4a8699294fcd80fbadde9809a435502928f7bea4830fc23630dddcb2390863a84e11997bbcf19
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-bbb-default-settings-plugin@npm:^1.2.1":
+  version: 1.2.1
+  resolution: "@artevelde-uas/canvas-lms-bbb-default-settings-plugin@npm:1.2.1"
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.9.0
+  checksum: ece5d5b2df51c4ba644d5763138d0a509f86555dd2847dc0ac22730283bf3bc5718904beb65e195eb7fdb5f244ac10c0a056aa5dbbc53ef95dc61c3339eab357
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-bbb-recording-popup-plugin@npm:^0.2.0":
+  version: 0.2.0
+  resolution: "@artevelde-uas/canvas-lms-bbb-recording-popup-plugin@npm:0.2.0"
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.10.0
+  checksum: 86a12f57bf2e25898446edefbbdfc81253f3cae44ec9636ebb088ab42641950438c381f681793df076f83108be55ea44d15f7d2150ca4b3dbd977eb0a2b31611
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-better-left-menu-plugin@npm:^1.2.0":
+  version: 1.2.0
+  resolution: "@artevelde-uas/canvas-lms-better-left-menu-plugin@npm:1.2.0"
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.9.0
+  checksum: d4bdcf7f3ccd9a4d9abd882ec6bf55c9d9596c401d450b4e3911b005a5367588c1817f23602de66c1b78b8849b77e03af762d2bcef86eb3e5cb047c14c9c7571
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-clear-all-sections-default-plugin@npm:^1.1.0":
+  version: 1.1.0
+  resolution: "@artevelde-uas/canvas-lms-clear-all-sections-default-plugin@npm:1.1.0"
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.9.0
+  checksum: 08b23d421bc810d003125494bbdcbed28b0432d8ce9d0b4bd0a0068db3b6ced3d67225e02a589a4b1ab3fe7daa6fe750f5f24b1087da024abeb3326209fdc010
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-enable-course-recycle-bin-plugin@npm:^2.1.0":
+  version: 2.1.0
+  resolution: "@artevelde-uas/canvas-lms-enable-course-recycle-bin-plugin@npm:2.1.0"
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.9.0
+  checksum: d40600e6590b952a44a6998cef213487f49895362413837ea848058201ee0cd28cdf76561136473f6395d02e5c777553f44bc4ae819bfec6d5485fbc7b070864
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-export-course-groups-plugin@npm:^1.1.2":
+  version: 1.1.2
+  resolution: "@artevelde-uas/canvas-lms-export-course-groups-plugin@npm:1.1.2"
+  dependencies:
+    xlsx: ^0.17.4
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.9.0
+  checksum: 6a5d9acca5a84a82fe97207d1694dc1bd3560b9451d73d3c5d94c738dded591e33ae978e55c43d02c251f0eaaccf312f6bd4e8d1ed715bc817ce2627c8e015e2
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-file-explorer-enhancements-plugin@npm:^1.2.0":
+  version: 1.2.0
+  resolution: "@artevelde-uas/canvas-lms-file-explorer-enhancements-plugin@npm:1.2.0"
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.9.0
+  checksum: 98f8f93aa71288812f63f807f41804de0a963bfc9262157df2e2b309b10408643a1168c91bc89f8285c27fb4f783087a5aa9de1e64bc7c2459e24fe48c286d5b
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-fix-files-navigation-plugin@npm:^1.1.0":
+  version: 1.1.0
+  resolution: "@artevelde-uas/canvas-lms-fix-files-navigation-plugin@npm:1.1.0"
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.9.0
+  checksum: e49a76ccc6d294ff3f1dd1a9074781b2138cf2129cdfdcf31c39c6b89341c3cb780642a61f04b27f034a2307385bde8c5a672cf19c70a5dace7e18e816424dfd
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-gradebook-disclaimer-plugin@npm:^1.2.1":
+  version: 1.2.1
+  resolution: "@artevelde-uas/canvas-lms-gradebook-disclaimer-plugin@npm:1.2.1"
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.9.0
+    react: ^17.0.2
+  checksum: 67a734bf3782e4f029a7cf4fe635531bcc0ed2388e0d739e39875a2d3c46ec3477cd1aa6a8040d3ca61738ccb013a965af203b279f79f067610441e27d6da239
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-hide-points-from-letter-grades-plugin@npm:^0.2.0":
+  version: 0.2.0
+  resolution: "@artevelde-uas/canvas-lms-hide-points-from-letter-grades-plugin@npm:0.2.0"
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.10.0
+  checksum: 71db0090036932aebb81229ab728374768360e9f38a147e771a500e37bbe78f24ef28780ed0e8f2c835366c2834660d75a6b85ae39bff932f28ad710c942bd99
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-installed-plugins-list-plugin@npm:^1.1.0":
+  version: 1.1.0
+  resolution: "@artevelde-uas/canvas-lms-installed-plugins-list-plugin@npm:1.1.0"
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.9.0
+    react: ^17.0.2
+  checksum: eca1a4da6a45b4c3e4c2b88ff63cd16b54ac92d9f5387756ac937b6a49f5762fa989ac4c4992adce3018e382eeed31e7b894b68a833d48166bc156107c8b07bd
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-module-navigation-plugin@npm:^0.4.0":
+  version: 0.4.0
+  resolution: "@artevelde-uas/canvas-lms-module-navigation-plugin@npm:0.4.0"
+  dependencies:
+    store2: ^2.14.2
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.10.0
+    react: ^17.0.2
+  checksum: c6db8bf9b66ce77254112bca5f19606af5d22ec5f712b9b54c2edf3f1243be46886709c21eb836275768806539ea31a54ec786a02225b050576ad5218c517f40
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-ms-teams-links-plugin@npm:^1.1.0":
+  version: 1.1.0
+  resolution: "@artevelde-uas/canvas-lms-ms-teams-links-plugin@npm:1.1.0"
+  dependencies:
+    custom-protocol-check: ^1.3.0
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.9.0
+  checksum: 392df367e9ccf371f2c9492ff2b018cc4c2ffc44c306fa9015c2653d7230d81d113620f5267350eba49251f5b4c80acdbebbc00207e2503e0bd4363e1b379c32
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-only-show-selected-module-plugin@npm:^1.3.0":
+  version: 1.3.0
+  resolution: "@artevelde-uas/canvas-lms-only-show-selected-module-plugin@npm:1.3.0"
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.9.0
+  checksum: a390b26c9e3eb12bfe3ea9bcb96d106ea177fc440436b5c91f283e053d866bece9ed54cfe78f14055b51f78497c4666ff3f23c9413265363ac9f283760efec3e
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-restrict-sis-course-settings-plugin@npm:^1.1.0":
+  version: 1.1.0
+  resolution: "@artevelde-uas/canvas-lms-restrict-sis-course-settings-plugin@npm:1.1.0"
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.9.0
+  checksum: a320e6a3b73aa4cb49de8513a77a6905cce0b8d1038a321a383b304acdd6d3e8b855418750675fd2116b26af91b8a9b189040e69d270f3a404465cc38f242a32
+  languageName: node
+  linkType: hard
+
+"@artevelde-uas/canvas-lms-speedgrader-letter-grade-dropdown-plugin@npm:^0.2.0":
+  version: 0.2.0
+  resolution: "@artevelde-uas/canvas-lms-speedgrader-letter-grade-dropdown-plugin@npm:0.2.0"
+  peerDependencies:
+    "@artevelde-uas/canvas-lms-app": ^1.12.1
+  checksum: c88e50834b2a95a363bcb42c9b90547924c41d4a605124a4affbf44e10a7f97c825bc2ddd49d35f29bee2528cd1fa777fcdc6beeb47f7b42a24d2349d1dc1f66
   languageName: node
   linkType: hard
 
@@ -4444,6 +4633,25 @@ __metadata:
   languageName: node
   linkType: hard
 
+"adler-32@npm:~1.2.0":
+  version: 1.2.0
+  resolution: "adler-32@npm:1.2.0"
+  dependencies:
+    exit-on-epipe: ~1.0.1
+    printj: ~1.1.0
+  bin:
+    adler32: ./bin/adler32.njs
+  checksum: aa611316fa224349b3eb1b7fcccc05195c38e425ff2b678fde67c0440b27074c42ad97b03efb7478f045b094f0dcb51a8711a2d5571d8940e1c5c52593af7bf6
+  languageName: node
+  linkType: hard
+
+"adler-32@npm:~1.3.0":
+  version: 1.3.1
+  resolution: "adler-32@npm:1.3.1"
+  checksum: c7f6b02df64a4392fcf1591862344f56733716a558e97a8b06a553dadeeaec792054512389000f42f371b13d2be5370e056e18db3b573944b595c4cb7742c5c6
+  languageName: node
+  linkType: hard
+
 "agent-base@npm:6, agent-base@npm:^6.0.2":
   version: 6.0.2
   resolution: "agent-base@npm:6.0.2"
@@ -5403,6 +5611,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"cfb@npm:^1.1.4":
+  version: 1.2.2
+  resolution: "cfb@npm:1.2.2"
+  dependencies:
+    adler-32: ~1.3.0
+    crc-32: ~1.2.0
+  checksum: cfb63a7d630a7fa415c1b25655dca66666584f29c95fb0ee90866ada1a28090857827f2ba70a9a50df28bdce05728ae58d495bce417249f305ef7b3c85840024
+  languageName: node
+  linkType: hard
+
 "chai-as-promised@npm:^7.1.1":
   version: 7.1.1
   resolution: "chai-as-promised@npm:7.1.1"
@@ -5620,6 +5838,13 @@ __metadata:
   version: 5.65.11
   resolution: "codemirror@npm:5.65.11"
   checksum: b3ace051cdf0809b377d50cc6ddfe5a40e6425aa980a55c2f965b6ba15f0315a77ea60dfd20f40624b3f944fb1d7bf0d68be4bc157f9b24899423df94ea9c878
+  languageName: node
+  linkType: hard
+
+"codepage@npm:~1.15.0":
+  version: 1.15.0
+  resolution: "codepage@npm:1.15.0"
+  checksum: 86bdfd8f8fd4d78ace6ddab02a1621cbb4a833686fe886984b4155d99cd0287581d69495774b816ab2f571c4dc851c1595e1dbb8d69bd6dbb5a631ebf317fab0
   languageName: node
   linkType: hard
 
@@ -5861,6 +6086,15 @@ __metadata:
     path-type: ^4.0.0
     yaml: ^1.10.0
   checksum: c53bf7befc1591b2651a22414a5e786cd5f2eeaa87f3678a3d49d6069835a9d8d1aef223728e98aa8fec9a95bf831120d245096db12abe019fecb51f5696c96f
+  languageName: node
+  linkType: hard
+
+"crc-32@npm:~1.2.0":
+  version: 1.2.2
+  resolution: "crc-32@npm:1.2.2"
+  bin:
+    crc32: bin/crc32.njs
+  checksum: ad2d0ad0cbd465b75dcaeeff0600f8195b686816ab5f3ba4c6e052a07f728c3e70df2e3ca9fd3d4484dc4ba70586e161ca5a2334ec8bf5a41bf022a6103ff243
   languageName: node
   linkType: hard
 
@@ -6237,6 +6471,13 @@ __metadata:
   version: 0.2.2
   resolution: "cuint@npm:0.2.2"
   checksum: b8127a93a7f16ce120ffcb22108014327c9808b258ee20e7dbb4c6740d7cb0f0c12d18a054eb716b0f2470090666abaae8a082d3cd5ef0e94fa447dd155842c4
+  languageName: node
+  linkType: hard
+
+"custom-protocol-check@npm:^1.3.0":
+  version: 1.4.0
+  resolution: "custom-protocol-check@npm:1.4.0"
+  checksum: 8d310f66a3cb031d3db51d9537e14e34059833058f6ef47900fdccfa12e3c1afca982113e35cf2c2cf0e69653d3b3443d837ffe4946f88631cfd5a2fbaeac573
   languageName: node
   linkType: hard
 
@@ -6980,6 +7221,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"exit-on-epipe@npm:~1.0.1":
+  version: 1.0.1
+  resolution: "exit-on-epipe@npm:1.0.1"
+  checksum: e8ab4940416d19f311b3c9226e3725c6c4c6026fe682266ecc0ff33a455d585fe3e4ee757857c7bf1d0491b478cb232b8e395dfb438e65ac87317eda47304c32
+  languageName: node
+  linkType: hard
+
 "expand-brackets@npm:^2.1.4":
   version: 2.1.4
   resolution: "expand-brackets@npm:2.1.4"
@@ -7301,6 +7549,13 @@ __metadata:
   version: 1.0.2
   resolution: "for-in@npm:1.0.2"
   checksum: 09f4ae93ce785d253ac963d94c7f3432d89398bf25ac7a24ed034ca393bf74380bdeccc40e0f2d721a895e54211b07c8fad7132e8157827f6f7f059b70b4043d
+  languageName: node
+  linkType: hard
+
+"frac@npm:~1.1.2":
+  version: 1.1.2
+  resolution: "frac@npm:1.1.2"
+  checksum: fbfbb28003bb84506dd35e7aad8543c5a358bdc95451d0065b6127d40d2c45106f14221575c3e9ce3ea4bf0bbf1225b73c5d655965c9f4ce44332cbe1b34667d
   languageName: node
   linkType: hard
 
@@ -11167,6 +11422,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"printj@npm:~1.1.0":
+  version: 1.1.2
+  resolution: "printj@npm:1.1.2"
+  bin:
+    printj: ./bin/printj.njs
+  checksum: 1c0c66844545415e339356ad62009cdc467819817b1e0341aba428087a1414d46b84089edb4e77ef24705829f8aae6349724b9c7bd89d8690302b2de7a89b315
+  languageName: node
+  linkType: hard
+
 "process-nextick-args@npm:~2.0.0":
   version: 2.0.1
   resolution: "process-nextick-args@npm:2.0.1"
@@ -11760,7 +12024,27 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
+    "@artevelde-uas/canvas-lms-all-courses-terms-tabs-plugin": ^1.1.0
     "@artevelde-uas/canvas-lms-app": ^1.12.1
+    "@artevelde-uas/canvas-lms-assignment-default-settings-plugin": ^0.3.1
+    "@artevelde-uas/canvas-lms-assignments-bulk-assign-to-plugin": ^1.1.0
+    "@artevelde-uas/canvas-lms-bbb-close-recording-reminder-plugin": ^1.1.0
+    "@artevelde-uas/canvas-lms-bbb-default-settings-plugin": ^1.2.1
+    "@artevelde-uas/canvas-lms-bbb-recording-popup-plugin": ^0.2.0
+    "@artevelde-uas/canvas-lms-better-left-menu-plugin": ^1.2.0
+    "@artevelde-uas/canvas-lms-clear-all-sections-default-plugin": ^1.1.0
+    "@artevelde-uas/canvas-lms-enable-course-recycle-bin-plugin": ^2.1.0
+    "@artevelde-uas/canvas-lms-export-course-groups-plugin": ^1.1.2
+    "@artevelde-uas/canvas-lms-file-explorer-enhancements-plugin": ^1.2.0
+    "@artevelde-uas/canvas-lms-fix-files-navigation-plugin": ^1.1.0
+    "@artevelde-uas/canvas-lms-gradebook-disclaimer-plugin": ^1.2.1
+    "@artevelde-uas/canvas-lms-hide-points-from-letter-grades-plugin": ^0.2.0
+    "@artevelde-uas/canvas-lms-installed-plugins-list-plugin": ^1.1.0
+    "@artevelde-uas/canvas-lms-module-navigation-plugin": ^0.4.0
+    "@artevelde-uas/canvas-lms-ms-teams-links-plugin": ^1.1.0
+    "@artevelde-uas/canvas-lms-only-show-selected-module-plugin": ^1.3.0
+    "@artevelde-uas/canvas-lms-restrict-sis-course-settings-plugin": ^1.1.0
+    "@artevelde-uas/canvas-lms-speedgrader-letter-grade-dropdown-plugin": ^0.2.0
     "@artevelde-uas/canvas-lms-theme-dev": ^0.3.0
   languageName: unknown
   linkType: soft
@@ -12265,6 +12549,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"ssf@npm:~0.11.2":
+  version: 0.11.2
+  resolution: "ssf@npm:0.11.2"
+  dependencies:
+    frac: ~1.1.2
+  checksum: 6ecef6ae0a90e67dc4b05bc3cca883e2dffad9773b41124af36ee308884e4a29f98bde66d6c8d2bd1ccf5f860ea4f6c49338bd8d733007fc42ebe02dd5295dcf
+  languageName: node
+  linkType: hard
+
 "ssri@npm:^6.0.1":
   version: 6.0.2
   resolution: "ssri@npm:6.0.2"
@@ -12306,6 +12599,13 @@ __metadata:
     define-property: ^0.2.5
     object-copy: ^0.1.0
   checksum: 8657485b831f79e388a437260baf22784540417a9b29e11572c87735df24c22b84eda42107403a64b30861b2faf13df9f7fc5525d51f9d1d2303aba5cbf4e12c
+  languageName: node
+  linkType: hard
+
+"store2@npm:^2.14.2":
+  version: 2.14.2
+  resolution: "store2@npm:2.14.2"
+  checksum: 6f270fc5bab99b63f45fcc7bd8b99c2714b4adf880f557ed7ffb5ed3987131251165bccde425a00928aaf044870aee79ddeef548576d093c68703ed2edec45d7
   languageName: node
   linkType: hard
 
@@ -13341,6 +13641,20 @@ __metadata:
   languageName: node
   linkType: hard
 
+"wmf@npm:~1.0.1":
+  version: 1.0.2
+  resolution: "wmf@npm:1.0.2"
+  checksum: d336acb2c76fa868ef006fbb06c4e64c7c1ed5ff77d16c48a273cf1f4d0a44e35df209b8fde28d93dd4a924d652a9c4fc8a92ad57885a5e437df0b0900769e3b
+  languageName: node
+  linkType: hard
+
+"word@npm:~0.3.0":
+  version: 0.3.0
+  resolution: "word@npm:0.3.0"
+  checksum: f84e7061883380c1bcb0d98bd183b7f2b281688011924af7a96d3ed3ee20aeb12cc59a0451b66e5e57520338a056725ff8e0c07b358c0afecf5488a9557c19fe
+  languageName: node
+  linkType: hard
+
 "worker-farm@npm:^1.7.0":
   version: 1.7.0
   resolution: "worker-farm@npm:1.7.0"
@@ -13365,6 +13679,23 @@ __metadata:
   version: 1.0.2
   resolution: "wrappy@npm:1.0.2"
   checksum: 159da4805f7e84a3d003d8841557196034155008f817172d4e986bd591f74aa82aa7db55929a54222309e01079a65a92a9e6414da5a6aa4b01ee44a511ac3ee5
+  languageName: node
+  linkType: hard
+
+"xlsx@npm:^0.17.4":
+  version: 0.17.5
+  resolution: "xlsx@npm:0.17.5"
+  dependencies:
+    adler-32: ~1.2.0
+    cfb: ^1.1.4
+    codepage: ~1.15.0
+    crc-32: ~1.2.0
+    ssf: ~0.11.2
+    wmf: ~1.0.1
+    word: ~0.3.0
+  bin:
+    xlsx: bin/xlsx.njs
+  checksum: f2dc48671994ba13aa98c4aaa14d7cb13f75f248964f555809ec3d4069e80e99a0bcb6657273e3872af3765118aa30630d566b991a14b6193f1ad79022542e46
   languageName: node
   linkType: hard
 

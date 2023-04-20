@@ -4,7 +4,27 @@
   "license": "UNLICENSED",
   "packageManager": "yarn@3.5.0",
   "dependencies": {
-    "@artevelde-uas/canvas-lms-app": "^1.12.1"
+    "@artevelde-uas/canvas-lms-all-courses-terms-tabs-plugin": "^1.1.0",
+    "@artevelde-uas/canvas-lms-app": "^1.12.1",
+    "@artevelde-uas/canvas-lms-assignment-default-settings-plugin": "^0.3.1",
+    "@artevelde-uas/canvas-lms-assignments-bulk-assign-to-plugin": "^1.1.0",
+    "@artevelde-uas/canvas-lms-bbb-close-recording-reminder-plugin": "^1.1.0",
+    "@artevelde-uas/canvas-lms-bbb-default-settings-plugin": "^1.2.1",
+    "@artevelde-uas/canvas-lms-bbb-recording-popup-plugin": "^0.2.0",
+    "@artevelde-uas/canvas-lms-better-left-menu-plugin": "^1.2.0",
+    "@artevelde-uas/canvas-lms-clear-all-sections-default-plugin": "^1.1.0",
+    "@artevelde-uas/canvas-lms-enable-course-recycle-bin-plugin": "^2.1.0",
+    "@artevelde-uas/canvas-lms-export-course-groups-plugin": "^1.1.2",
+    "@artevelde-uas/canvas-lms-file-explorer-enhancements-plugin": "^1.2.0",
+    "@artevelde-uas/canvas-lms-fix-files-navigation-plugin": "^1.1.0",
+    "@artevelde-uas/canvas-lms-gradebook-disclaimer-plugin": "^1.2.1",
+    "@artevelde-uas/canvas-lms-hide-points-from-letter-grades-plugin": "^0.2.0",
+    "@artevelde-uas/canvas-lms-installed-plugins-list-plugin": "^1.1.0",
+    "@artevelde-uas/canvas-lms-module-navigation-plugin": "^0.4.0",
+    "@artevelde-uas/canvas-lms-ms-teams-links-plugin": "^1.1.0",
+    "@artevelde-uas/canvas-lms-only-show-selected-module-plugin": "^1.3.0",
+    "@artevelde-uas/canvas-lms-restrict-sis-course-settings-plugin": "^1.1.0",
+    "@artevelde-uas/canvas-lms-speedgrader-letter-grade-dropdown-plugin": "^0.2.0"
   },
   "devDependencies": {
     "@artevelde-uas/canvas-lms-theme-dev": "^0.3.0"
