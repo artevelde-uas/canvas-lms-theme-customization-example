@@ -15,7 +15,7 @@ Install the extra plug-ins you want using `Yarn`:
 
 ### Step 2: Import the plug-ins into your project's code
 
-Just import your plug-ins and add them to the app using `addPlugin()`. Some plug-ins accept an additional options object.
+Just import your plug-ins in the `./src/index.js` file and add them to the app using `addPlugin()`. Some plug-ins accept an additional options object.
 
 ```javascript
 import { run, addPlugin } from '@artevelde-uas/canvas-lms-app';
@@ -36,11 +36,11 @@ run();
 
 ### Step 3: Build your project
 
-The Canvas LMS DEV tool provides a default build script to compile your code with zero configuration needed. Just add the plug-ins you need to the `./src/index.js` file and run the command:
+The Canvas LMS DEV tool provides a default build script to compile your code with zero configuration needed. Just add the plug-ins you need to your project and run the following command:
 
     yarn canvas-build
 
-This will compile your code into a Javascript and CSS file in the `dist/` folder. Upload these onto your Canvas instance's theme and you're good to go!
+This will compile your code into a single Javascript and CSS file in the `./dist/` folder. Upload these files to your Canvas instance's theme and you're good to go!
 
 ### Removing plug-ins
 
