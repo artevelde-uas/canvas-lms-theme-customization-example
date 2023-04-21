@@ -9,11 +9,7 @@ This example app comes with the full stack of currently available plug-ins provi
 
 ### Step 1: Installing plug-ins in your project
 
-Install the extra plug-ins you want using `NPM`:
-
-    npm install @some-org/plugin @some/plugin-with-options
-
-Or `Yarn`:
+Install the extra plug-ins you want using `Yarn`:
 
     yarn add @some-org/plugin @some/plugin-with-options
 
@@ -42,10 +38,6 @@ run();
 
 The Canvas LMS DEV tool provides a default build script to compile your code with zero configuration needed. Just add the plug-ins you need to the `./src/index.js` file and run the command:
 
-    npm run canvas-build
-
-Or:
-
     yarn canvas-build
 
 This will compile your code into a Javascript and CSS file in the `dist/` folder. Upload these onto your Canvas instance's theme and you're good to go!
@@ -53,10 +45,6 @@ This will compile your code into a Javascript and CSS file in the `dist/` folder
 ### Removing plug-ins
 
 Likewise, to remove a plug-in, just run this command:
-
-    npm remove @some-org/plugin
-
-Or:
 
     yarn remove @some-org/plugin
 
