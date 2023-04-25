@@ -16,7 +16,7 @@
     "@artevelde-uas/canvas-lms-enable-course-recycle-bin-plugin": "^2.1.0",
     "@artevelde-uas/canvas-lms-export-course-groups-plugin": "^1.1.2",
     "@artevelde-uas/canvas-lms-file-explorer-enhancements-plugin": "^1.2.0",
-    "@artevelde-uas/canvas-lms-fix-files-navigation-plugin": "^1.1.0",
+    "@artevelde-uas/canvas-lms-fix-files-navigation-plugin": "^1.1.1",
     "@artevelde-uas/canvas-lms-gradebook-disclaimer-plugin": "^1.2.1",
     "@artevelde-uas/canvas-lms-hide-points-from-letter-grades-plugin": "^0.2.0",
     "@artevelde-uas/canvas-lms-installed-plugins-list-plugin": "^1.1.0",

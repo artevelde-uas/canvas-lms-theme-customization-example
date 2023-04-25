@@ -146,12 +146,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@artevelde-uas/canvas-lms-fix-files-navigation-plugin@npm:^1.1.0":
-  version: 1.1.0
-  resolution: "@artevelde-uas/canvas-lms-fix-files-navigation-plugin@npm:1.1.0"
+"@artevelde-uas/canvas-lms-fix-files-navigation-plugin@npm:^1.1.1":
+  version: 1.1.1
+  resolution: "@artevelde-uas/canvas-lms-fix-files-navigation-plugin@npm:1.1.1"
   peerDependencies:
     "@artevelde-uas/canvas-lms-app": ^1.9.0
-  checksum: e49a76ccc6d294ff3f1dd1a9074781b2138cf2129cdfdcf31c39c6b89341c3cb780642a61f04b27f034a2307385bde8c5a672cf19c70a5dace7e18e816424dfd
+  checksum: fe4f1a189c30a4caea07ac64579bd92324d6115f34440b4aee4de2f6b3ef082522a6509cf810c0f9e7624e8222a87ff14dff9d6c070356844df96b85f5876d08
   languageName: node
   linkType: hard
 
@@ -12018,7 +12018,7 @@ __metadata:
     "@artevelde-uas/canvas-lms-enable-course-recycle-bin-plugin": ^2.1.0
     "@artevelde-uas/canvas-lms-export-course-groups-plugin": ^1.1.2
     "@artevelde-uas/canvas-lms-file-explorer-enhancements-plugin": ^1.2.0
-    "@artevelde-uas/canvas-lms-fix-files-navigation-plugin": ^1.1.0
+    "@artevelde-uas/canvas-lms-fix-files-navigation-plugin": ^1.1.1
     "@artevelde-uas/canvas-lms-gradebook-disclaimer-plugin": ^1.2.1
     "@artevelde-uas/canvas-lms-hide-points-from-letter-grades-plugin": ^0.2.0
     "@artevelde-uas/canvas-lms-installed-plugins-list-plugin": ^1.1.0
